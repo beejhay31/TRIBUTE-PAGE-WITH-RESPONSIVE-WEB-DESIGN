@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<main id="main">
+  <head>
+  <h1 id="title">
+    FOLAKE ADEGOKE
+  </h1>
+  </head>
+  <body>
+  <div id="img-div">
+    <img id="image" class= "thick-white-border" src="https://bit.ly/38MOvXz">
+    <figcaption id="img-caption">Folake Adegoke Standing while carrying her grandson in the air with a huge smile on her face</figcaption>
+  </div>
+  <h3 id="tribute-info">Her Feats</h3>
+ <ul>
+   <li>Born on September 08, 1967</li>
+   <li>Gave her life to Christ as a young adult</li>
+   <li>Despite being from a rich home, she learnt to be independent from a young age</li>
+   <li>Graduated from University of Benin with a degree in accounting</li>
+   <li>Further went for Msc Accounting at Ladoke Akintola University of Technology</li>
+   <li>Proud Mother of 5 who has sacrifised so much for her children</li>
+   <li>A lecturer who gives maximum attention to her students success</li>
+   <li>Fearlessly independent woman who taught her children the value of independence</li>
+   <li>One in a Million Woman</li>
+   <li>Blessed among women</li>
+    </ul>
+  <p><h3>Know More about this amazing woman through her <a id="tribute-link" target="_blank" href=>Facebook Profile</a></h3></p>
+</body>
+</main>
+</html>
